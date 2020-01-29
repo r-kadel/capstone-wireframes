@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+}
+
+header {
+  background-color: grey;
+}
+.search-results {
+  padding: 20px;
+  height: 8rem;
+}
+
+.search-bar {
+  margin-top: 10px;
+}
+
+.login-input {
+  margin: 5px;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+  margin: auto;
+  text-align: center;
+  background-color: gray;
+}
+
+footer {
+  background-color: grey;
+}
+
+.result-detail {
+  display: inline-block;
+  text-align: left;
+}
+
+button {
+  margin-bottom: 15px;
+}
+
+#demo-image {
+  margin-top: 10px;
+  float: left;
+  margin-right: 30px;
+  height: 50px;
+  background-color: grey;
+}
